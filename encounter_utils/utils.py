@@ -6,9 +6,9 @@ __all__ = [
     "generate_code",
 ]
 
-RU_ALPHABET = list("укенгшзхфвапрожячсмитбю")
-EN_ALPAHBET = list("wertyuopasdfghjkzxcvbn")
-NUMBERS = list("0123456789")
+RU_ALPHABET = list("укенгшзхфвапржячсмитбю")
+EN_ALPAHBET = list("wertyupasdfghjkzxcvbn")
+NUMBERS = list("123456789")
 
 
 def generate_code(mask: str, n: int = 1) -> typing.List[str]:
