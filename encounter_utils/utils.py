@@ -6,7 +6,7 @@ __all__ = [
     "generate_code",
 ]
 
-RU_ALPHABET = list("укенгшхвапрясмт")
+RU_ALPHABET = list("укенгшхварясмт")
 EN_ALPAHBET = list("wertyupasdfghjkzxcvbn")
 NUMBERS = list("12456789")
 
